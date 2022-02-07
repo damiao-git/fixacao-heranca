@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fixacao-heranca", "ficacao-heranca\fixacao-heranca.csproj", "{47C856B9-80A9-4B54-B6FE-42CBC90C091A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C856B9-80A9-4B54-B6FE-42CBC90C091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C856B9-80A9-4B54-B6FE-42CBC90C091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C856B9-80A9-4B54-B6FE-42CBC90C091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C856B9-80A9-4B54-B6FE-42CBC90C091A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E3F4AE-B98D-4C97-9BF1-DC160759B1A9}
+	EndGlobalSection
+EndGlobal
